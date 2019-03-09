@@ -15,5 +15,7 @@ $ ./golang-api-hello-world
 
 open browser and we are coing to:
 
-http://localhost:
+http://localhost:1528
+
+
 
